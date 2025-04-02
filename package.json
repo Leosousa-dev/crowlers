@@ -11,12 +11,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/cheerio": "^0.22.35",
     "@types/node": "^22.13.17",
-    "axios": "^1.8.4",
     "typescript": "^5.8.2"
   },
   "dependencies": {
-    "cheerio": "^1.0.0"
+    "puppeteer": "^24.5.0"
   }
 }
