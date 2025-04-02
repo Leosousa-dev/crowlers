@@ -1,0 +1,22 @@
+{
+  "name": "studies-crowlers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": " npx ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cheerio": "^0.22.35",
+    "@types/node": "^22.13.17",
+    "axios": "^1.8.4",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
